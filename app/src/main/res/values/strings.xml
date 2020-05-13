@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">InClass02-1</string>
+    <string name="text">Body Mass Index(BMI) Calculator</string>
+    <string name="Weight">Weight</string>
+    <string name="Height">Height</string>
+    <string name="CalculateBMI">Calculate BMI</string>
+    <string name="lb">lb</string>
+    <string name="ft">ft</string>
+    <string name="inch">inch</string>
+    <string name="YourBMI">Your BMI:</string>
+    <string name="Message" />
+</resources>
